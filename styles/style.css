@@ -80,3 +80,24 @@ nav{
     font-size: 16px;
     color: #0d1321;
 }
+
+/* body stylings */
+
+
+/* footer styling */
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    background-color: #0d132108;
+    padding-top: 10px;
+}
+.footy-statement{
+    color: #0d1321;
+    font-size: 20px;
+}
+.socials-cluster{
+    display: flex;
+    gap: 25px;
+}
