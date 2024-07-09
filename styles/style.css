@@ -3,6 +3,17 @@
 a{
     text-decoration: none;
 }
+.sec-desc{
+    font-size: 16px;
+    color: #0d1321;
+    opacity: 70%;
+    text-align: center;
+}
+.sec-title{
+    font-size: 32px;
+    color: #0d1321;
+    text-align: center;
+}
 
 /* buttons */
 
@@ -76,12 +87,47 @@ nav{
     font-size: 48px;
     color: #0d1321;
 }
-.banner-desc{
-    font-size: 16px;
-    color: #0d1321;
-}
 
 /* body stylings */
+
+/* q-a section */
+.why-webdev{
+    max-width: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    padding: 8% 6%;
+    border-radius: 10px;
+    background-color: #0d132105;
+}
+.q-a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    max-width: 85%;
+}
+.q-a-card{
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 5%;
+    border-radius: 10px;
+    display: flex;
+    max-width: 90%;
+}
+.q-a-card-txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    max-width: 60%;
+}
+.q-a-card-img{
+    align-self: center;
+}
 
 
 /* footer styling */
