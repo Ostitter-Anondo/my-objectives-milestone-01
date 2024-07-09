@@ -129,6 +129,28 @@ nav{
     align-self: center;
 }
 
+/* inspiration section */
+
+.inspiration{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    margin: 0px auto 50px;
+}
+.inspiration-txt{
+    max-width: 75%;
+    margin: auto;
+}
+.vid-playback{
+    padding: 32px;
+    margin: 50px auto 0px;
+    border-radius: 16px;
+    border: 1px solid #0d132133;;
+}
+iframe{
+    border-radius: 16px;
+}
 
 /* footer styling */
 footer{
