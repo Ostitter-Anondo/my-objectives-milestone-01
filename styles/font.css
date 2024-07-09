@@ -7,7 +7,7 @@
     font-style: normal;
 }
 
-.azeret-mono-extra-thin{
+.azeret-mono-extrathin{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 200;
@@ -35,7 +35,7 @@
     font-style: normal;
 }
 
-.azeret-mono-semi-bold{
+.azeret-mono-semibold{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 600;
@@ -49,14 +49,14 @@
     font-style: normal;
 }
 
-.azeret-mono-extra-bold{
+.azeret-mono-extrabold{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: normal;
 }
 
-.azeret-mono-blac{
+.azeret-mono-black{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 900;
