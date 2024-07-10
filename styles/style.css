@@ -13,7 +13,7 @@ a{
     font-size: 16px;
     color: #0d1321;
     opacity: 70%;
-    text-align: left;
+    text-align: justify;
 }
 .sec-title{
     font-size: 32px;
@@ -201,8 +201,40 @@ iframe{
 .current-card{
     max-width: 26%;
     border-radius: 16px;
-    padding: 3%;
+    padding: 40px;
 }
+
+/* next starget section styling */
+
+.next-target{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 80%;
+    margin: 50px auto;
+}
+.next-cards{
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+    margin: 50px auto 0px;
+}
+.next-card{
+    border: 1px solid #0d132126;
+    border-radius: 16px;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.next-img{
+    width: 20%;
+}
+.next-txt{
+    width: 80%;
+}
+
 
 /* footer styling */
 footer{
