@@ -225,6 +225,7 @@ iframe{
     border-radius: 16px;
     padding: 50px;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
 }
@@ -265,8 +266,9 @@ iframe{
 }
 .feedback-form{
     display: flex;
+    justify-content: center;
     margin: 20px auto;
-    gap: 15px;
+    gap: 20px;
 }
 .feedback-inp{
     min-height: 58px;
