@@ -264,6 +264,7 @@ iframe{
 }
 .feedback-desc{
     color: white;
+    font-size: 16px;
     opacity: 70%;
 }
 .feedback-form{
@@ -278,7 +279,7 @@ iframe{
     border-radius: 8px;
     border: none;
     color: #0d132166;
-    font-size: 16;
+    font-size: 16px;
     padding: 0px 20px;
 }
 .feedback-btn{
